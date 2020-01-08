@@ -39,3 +39,7 @@ C'est un **notebook** supplémentaire, que j'ai trouvé intéressant à dévelop
 L'utilisateur doit juste entrer une liste de noms de pays et de produits.
 
 *Ce notebook utilise la base de donnée `sqlite3`*.
+
+-----
+
+Il y a également le fichier `présentation.pdf`, utilisé comme support lors de la soutenance.
