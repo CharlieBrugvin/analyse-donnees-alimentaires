@@ -9,7 +9,6 @@ Faire une étude sur la sous-nutrition dans le monde. Pour se faire, réaliser l
 
 ## Organisation des sources
 
-
 Le dossier contient 4 sous-dossiers :
 
 ### 1_analyse_de_donnee
@@ -36,6 +35,6 @@ Ces fichiers sont générés par le notebook précédent.
 
 C'est un **notebook** supplémentaire, que j'ai trouvé intéressant à développer. Il permet de produire un document markdown contenant des statistiques qui sont générées automatiquement. 
 
-L'utilisateur doit juste entrer une liste de noms de pays et de produits.
+L'utilisateur doit entrer une liste de noms de pays et de produits.
 
 *Ce notebook utilise la base de donnée `sqlite3`*.
