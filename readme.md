@@ -1,11 +1,11 @@
 
 Ce projet a été réalisé dans le cadre de la formation [Data Analyst](https://openclassrooms.com/fr/paths/65-data-analyst), sur la plateforme OpenClassrooms.
 
+Voir le fichier [présentation.pdf](présentation.pdf), utilisé comme support lors de la soutenance.
+
 ## Sujet
 
 Faire une étude sur la sous-nutrition dans le monde. Pour se faire, réaliser l'analyse de données issues du [site](http://www.fao.org/faostat/fr/#data) de la FAO (Food and Agriculture Organization of the United Nations).
-
-
 
 ## Organisation des sources
 
@@ -39,7 +39,3 @@ C'est un **notebook** supplémentaire, que j'ai trouvé intéressant à dévelop
 L'utilisateur doit juste entrer une liste de noms de pays et de produits.
 
 *Ce notebook utilise la base de donnée `sqlite3`*.
-
------
-
-Il y a également le fichier `présentation.pdf`, utilisé comme support lors de la soutenance.
