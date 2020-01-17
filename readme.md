@@ -8,7 +8,7 @@ Le problème de la faim est complexe et peut avoir de multiples causes, différe
 
 <br />
 
-### :arrow_forward: [Voir ma présentation des résultats](présentation.pdf).
+### :arrow_forward: [Voir ma présentation des résultats](présentation.pdf)
 
 -----------------------------------------
 
