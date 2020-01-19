@@ -10,6 +10,10 @@ Le problème de la faim est complexe et peut avoir de multiples causes, différe
 
 ### :arrow_forward: [Voir ma présentation des résultats](présentation.pdf)
 
+### :notebook: [Notebook : Préparation et analyse des données](1_analyse_de_donnee/analyse_donnee.ipynb)
+
+### :notebook: [Notebook : Création de la base de donnée MySQL](/2_creation_bdd/creation_bdd.ipynb)
+
 -----------------------------------------
 
 ## Organisation des sources
