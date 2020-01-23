@@ -1,5 +1,7 @@
 *Ce projet a été réalisé dans le cadre de la formation [Data Analyst](https://openclassrooms.com/fr/paths/65-data-analyst), sur la plateforme OpenClassrooms.*
 
+## Étude de santé publique
+
 ### Introduction
 
 Ce projet a pour but d'explorer les données de la FAO (Food and Agriculture Organization of the United Nations) afin de mettre en lumière différentes causes de la faim dans le monde.
